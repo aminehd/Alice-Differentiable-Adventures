@@ -1,2 +1,2 @@
 # Chapter_7
-This chapter covers ... Convolutional Layers
+This chapter covers  "Convolutional Layers".
